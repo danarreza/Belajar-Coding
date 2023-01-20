@@ -1,3 +1,17 @@
-h1{
+h1 {
     color: RED;
 }
+
+#judul {
+    color:blue;
+}
+
+h2.belajar {
+    color:aqua;
+}
+
+h3, h4, h5 {
+    color:red;
+}
+/* cara penambahan id dengan menggunakan tanda # */
+/*penambahan class dengan menggunakan tanda . */
