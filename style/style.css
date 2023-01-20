@@ -1,4 +1,4 @@
-h1 {
+/* h1 {
     color: RED;
 }
 
@@ -12,6 +12,31 @@ h2.belajar {
 
 h3, h4, h5 {
     color:red;
-}
+} */
+
 /* cara penambahan id dengan menggunakan tanda # */
 /*penambahan class dengan menggunakan tanda . */
+/* color disini disebut sebagai property */
+/* red, blue, yellow disebut velue */
+/* untuk menghubungkan antara 2 folder dengan menggunakan tanda ../  */
+
+
+.warnaKelas {
+    color:blue;
+}
+
+h2 {
+    color:#ff27c7 ;
+}
+
+#idwarna {
+background-color: #ff27c7;
+}
+
+body {
+    /* background-image: url("https://img.okezone.com/content/2022/11/22/406/2712651/kenapa-pontianak-disebut-kota-kuntilanak-simak-penjelasannya-Jgzu8Q6Ryl.jpg");
+    background-repeat: no-repeat;
+    background-position: center top; */
+
+    background: orange url("../img/kuching-tour.jpg") no-repeat center top;
+}
